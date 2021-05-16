@@ -1,0 +1,70 @@
+.container{
+    padding: 10px;
+}
+
+body{
+    background-color: rgb(188,143,143);
+    color: white;
+    padding-bottom: 20px;
+
+}
+
+.panel-heading
+{
+    padding: 2px;
+}
+
+.panel{
+    border-style: solid;
+    border-width: 2px;
+}
+
+h4{
+    font-family: Papyrus, sans-serif;
+    font-size: 30px;
+    text-align: center;
+    width: 100%;
+    text-decoration: underline;
+}
+
+label, .panel-heading, button{
+    font-family: Papyrus, sans-serif;
+    font-size: 20px;
+}
+
+.panel-heading h4{
+    font-size: 30px;
+}
+
+input, textarea{
+    font-family: "Segoe UI", sans-serif;
+    font-weight: normal;
+    font-size: 20px;
+    display: block;
+    background-color: rgb(221,200,197);
+    border: none;
+    border-radius: 3px;
+}
+
+textarea{
+    width: 100%;
+}
+
+.form-group{
+    margin-bottom: 40px;
+}
+
+label{
+    display: block;
+    margin-bottom: 10px;
+}
+
+button{
+    font-family: Calibri, sans-serif;
+    font-size: 20px;
+    padding: 5px;
+}
+
+button:hover{
+    cursor: pointer;
+}
